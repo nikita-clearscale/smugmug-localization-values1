@@ -1,2 +1,6 @@
 #@note: member-description-comment
 MEMBER_DESCRIPTION = MemberDescriptionValue original update
+
+
+#@note: member-description-comment1
+MEMBER_DESCRIPTION1 = MemberDescriptionValue original update
