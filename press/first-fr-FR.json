@@ -3,5 +3,10 @@
     "id": "MEMBER_DESCRIPTION",
     "description": "member-description-comment",
     "defaultMessage": "MemberDescriptionValue original update"
+  },
+  {
+    "id": "MEMBER_DESCRIPTION1",
+    "description": "member-description-comment1",
+    "defaultMessage": "MemberDescriptionValue original update"
   }
 ]
